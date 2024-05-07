@@ -1,6 +1,6 @@
 :root {
-    --PRIMARY-color: rgba(50, 50, 255, 1); /* brand primary color */
-    --SECONDARY-color: rgba(50, 50, 255, 1); /* brand secondary color */
+    --PRIMARY-color: rgba(74, 165, 255, 1); /* brand primary color */
+    --SECONDARY-color: rgba(74, 165, 255, 1); /* brand secondary color */
     --ACCENT-color: rgba(
         255,
         68,
@@ -47,7 +47,7 @@
         71,
         1
     ); /* border color of block code */
-    --CODE-INLINE-color: rgba(50, 50, 255, 1); /* text color of inline code */
+    --CODE-INLINE-color: rgba(74, 165, 255, 1); /* text color of inline code */
     --CODE-INLINE-BG-color: rgba(
         45,
         45,

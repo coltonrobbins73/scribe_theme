@@ -1,6 +1,6 @@
 :root {
-    --PRIMARY-color: rgba(50, 50, 255, 1); /* brand primary color */
-    --SECONDARY-color: rgba(50, 50, 255, 1); /* brand secondary color */
+    --PRIMARY-color: rgb(74, 165, 255); /* brand primary color */
+    --SECONDARY-color: rgba(74, 165, 255, 1); /* brand secondary color */
     --ACCENT-color: rgba(
         255,
         136,
